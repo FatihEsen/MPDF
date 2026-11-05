@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MPDF</string>
+    <string name="tab_queue">Queue</string>
+    <string name="tab_queue_tr">Sıra</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_library_tr">Kütüphane</string>
+    <string name="sprout_curator">Sprout AI</string>
+    <string name="settings">Settings</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "MPDF",
+  "description": "A dedicated Music Player Daemon (MPD) remote client and media player featuring Catppuccin Mocha aesthetic with Ghibli details, real TCP socket communication, and Sprout AI curator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
